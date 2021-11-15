@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CRTC'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = "XCFramework"
   s.documentation_url = ''
   s.platform          = 'ios'
